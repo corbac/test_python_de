@@ -1,0 +1,193 @@
+[
+    {
+        "atccode": "A04AD",
+        "drug": "DIPHENHYDRAMINE",
+        "rejected": false,
+        "map": {
+            "clinical_trials": [
+                {
+                    "title": "Use of Diphenhydramine as an Adjunctive Sedative for Colonoscopy in Patients Chronically on Opioids",
+                    "date": "2020-01-01"
+                },
+                {
+                    "title": "Phase 2 Study IV QUZYTTIR™ (Cetirizine Hydrochloride Injection) vs V Diphenhydramine",
+                    "date": "2020-01-01"
+                },
+                {
+                    "title": "Feasibility of a Randomized Controlled Clinical Trial Comparing the Use of Cetirizine to Replace Diphenhydramine in the Prevention of Reactions Related to Paclitaxel",
+                    "date": "2020-01-01"
+                }
+            ],
+            "pubmed": [
+                {
+                    "title": "A 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+                    "date": "2019-01-01"
+                },
+                {
+                    "title": "An evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+                    "date": "2019-01-01"
+                },
+                {
+                    "title": "Diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+                    "date": "2019-01-02"
+                }
+            ],
+            "journal": [
+                {
+                    "title": "Journal of emergency nursing",
+                    "date": "2020-01-01"
+                },
+                {
+                    "title": "Journal of emergency nursing",
+                    "date": "2019-01-01"
+                },
+                {
+                    "title": "The Journal of pediatrics",
+                    "date": "2019-01-02"
+                }
+            ]
+        }
+    },
+    {
+        "atccode": "S03AA",
+        "drug": "TETRACYCLINE",
+        "rejected": false,
+        "map": {
+            "clinical_trials": [],
+            "pubmed": [
+                {
+                    "title": "Tetracycline Resistance Patterns of Lactobacillus buchneri Group Strains.",
+                    "date": "2020-01-01"
+                },
+                {
+                    "title": "Appositional Tetracycline bone formation rates in the Beagle.",
+                    "date": "2020-01-02"
+                }
+            ],
+            "journal": [
+                {
+                    "title": "Journal of food protection",
+                    "date": "2020-01-01"
+                },
+                {
+                    "title": "American journal of veterinary research",
+                    "date": "2020-01-02"
+                }
+            ]
+        }
+    },
+    {
+        "atccode": "V03AB",
+        "drug": "ETHANOL",
+        "rejected": false,
+        "map": {
+            "clinical_trials": [],
+            "pubmed": [],
+            "journal": []
+        }
+    },
+    {
+        "atccode": "A03BA",
+        "drug": "ATROPINE",
+        "rejected": false,
+        "map": {
+            "clinical_trials": [],
+            "pubmed": [],
+            "journal": []
+        }
+    },
+    {
+        "atccode": "A01AD",
+        "drug": "EPINEPHRINE",
+        "rejected": false,
+        "map": {
+            "clinical_trials": [
+                {
+                    "title": "Tranexamic Acid Versus Epinephrine During Exploratory Tympanotomy",
+                    "date": "2020-04-27"
+                }
+            ],
+            "pubmed": [
+                {
+                    "title": "The High Cost of Epinephrine Autoinjectors and Possible Alternatives.",
+                    "date": "2020-02-01"
+                },
+                {
+                    "title": "Time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained ROSC after traumatic out-of-hospital cardiac arrest.",
+                    "date": "2020-03-01"
+                }
+            ],
+            "journal": [
+                {
+                    "title": "Journal of emergency nursing",
+                    "date": "2020-04-27"
+                },
+                {
+                    "title": "The journal of allergy and clinical immunology. In practice",
+                    "date": "2020-02-01"
+                },
+                {
+                    "title": "The journal of allergy and clinical immunology. In practice",
+                    "date": "2020-03-01"
+                }
+            ]
+        }
+    },
+    {
+        "atccode": "6302001",
+        "drug": "ISOPRENALINE",
+        "rejected": false,
+        "map": {
+            "clinical_trials": [],
+            "pubmed": [
+                {
+                    "title": "Gold nanoparticles synthesized from Euphorbia fischeriana root by green route method alleviates the isoprenaline hydrochloride induced myocardial infarction in rats.",
+                    "date": "2020-01-01"
+                }
+            ],
+            "journal": [
+                {
+                    "title": "Journal of photochemistry and photobiology. B, Biology",
+                    "date": "2020-01-01"
+                }
+            ]
+        }
+    },
+    {
+        "atccode": "R01AD",
+        "drug": "BETAMETHASONE",
+        "rejected": false,
+        "map": {
+            "clinical_trials": [
+                {
+                    "title": "Preemptive Infiltration With Betamethasone and Ropivacaine for Postoperative Pain in Laminoplasty or  Laminectomy",
+                    "date": "2020-01-01"
+                }
+            ],
+            "pubmed": [
+                {
+                    "title": "Clinical implications of umbilical artery Doppler changes after betamethasone administration",
+                    "date": "2020-01-01"
+                },
+                {
+                    "title": "Effects of Topical Application of Betamethasone on Imiquimod-induced Psoriasis-like Skin Inflammation in Mice.",
+                    "date": "2020-01-01"
+                }
+            ],
+            "journal": [
+                {
+                    "title": "Hôpitaux Universitaires de Genève",
+                    "date": "2020-01-01"
+                },
+                {
+                    "title": "The journal of maternal-fetal & neonatal medicine",
+                    "date": "2020-01-01"
+                },
+                {
+                    "title": "Journal of back and musculoskeletal rehabilitation",
+                    "date": "2020-01-01"
+                }
+            ]
+        }
+    }
+]

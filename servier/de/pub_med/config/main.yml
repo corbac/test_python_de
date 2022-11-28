@@ -1,0 +1,9 @@
+PUBMED:
+  JOB:
+    ALERT_EMAIL : de_monitor@servier.fr
+  PATH:
+    SOURCEDIR : data/source
+    DESTDIR : data/output
+    REJECTIONDIR : data/rejected
+  PROCESSORS:
+
